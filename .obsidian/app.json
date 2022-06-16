@@ -6,5 +6,6 @@
   "defaultViewMode": "source",
   "trashOption": "none",
   "attachmentFolderPath": "/",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }
