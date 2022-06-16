@@ -5,6 +5,6 @@
   "promptDelete": false,
   "defaultViewMode": "source",
   "trashOption": "none",
-  "attachmentFolderPath": "Screenshots",
+  "attachmentFolderPath": "/",
   "newLinkFormat": "absolute"
 }
