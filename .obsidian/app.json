@@ -3,7 +3,8 @@
   "livePreview": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "trashOption": "none",
-  "attachmentFolderPath": "Screenshots"
+  "attachmentFolderPath": "Screenshots",
+  "newLinkFormat": "absolute"
 }
