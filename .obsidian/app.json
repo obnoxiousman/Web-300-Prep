@@ -7,5 +7,6 @@
   "trashOption": "none",
   "attachmentFolderPath": "/",
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "spellcheck": true
 }

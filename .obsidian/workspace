@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e763b3a5e982b093",
+        "id": "2d2bd40b77e6d6eb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01. Topics/02. Atutor/3. Data Exfilteration.md",
+            "file": "01. Topics/02. Atutor/5. Remote Code Execution.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Topics/02. Atutor/3. Data Exfilteration.md",
+                "file": "01. Topics/02. Atutor/5. Remote Code Execution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e763b3a5e982b093",
+  "active": "2d2bd40b77e6d6eb",
   "lastOpenFiles": [
-    "01. Topics/02. Atutor/3. Data Exfilteration.md",
-    "t1-ss25.png",
+    "01. Topics/02. Atutor/5. Remote Code Execution.md",
     "01. Topics/02. Atutor/1. Bug Discovery.md",
+    "01. Topics/02. Atutor/3. Data Exfilteration.md",
+    "01. Topics/02. Atutor/4. Bypassing Authentication.md",
+    "Pasted image 20220702181924.png",
+    "Screenshots/t1-ss28.png",
+    "Screenshots/t1-ss25.png",
     "01. Topics/02. Atutor/2. Digging Deeper.md",
     "01. Topics/01. Tools & Methodologies/5. Debugging.md",
-    "01. Topics/01. Tools & Methodologies/4. Source Code Analysis.md",
-    "01. Topics/01. Tools & Methodologies/3. Source Code Recovery.md",
-    "01. Topics/01. Tools & Methodologies/2. Web Listeners In Python.md",
-    "01. Topics/01. Tools & Methodologies/1. Traffic Inspection.md",
-    "Screenshots/t1-ss1.png"
+    "01. Topics/01. Tools & Methodologies/4. Source Code Analysis.md"
   ]
 }
