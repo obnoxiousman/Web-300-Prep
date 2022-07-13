@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01. Topics/02. Atutor/5. Remote Code Execution.md",
+            "file": "01. Topics/03. ManageEngine/1. Bug Discovery.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Topics/02. Atutor/5. Remote Code Execution.md",
+                "file": "01. Topics/03. ManageEngine/1. Bug Discovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "2d2bd40b77e6d6eb",
   "lastOpenFiles": [
-    "01. Topics/02. Atutor/5. Remote Code Execution.md",
+    "01. Topics/03. ManageEngine/1. Bug Discovery.md",
+    "01. Topics/01. Tools & Methodologies/3. Source Code Recovery.md",
+    "01. Topics/02. Atutor/6. Type Juggling Vulnerability.md",
     "01. Topics/02. Atutor/1. Bug Discovery.md",
+    "01. Topics/02. Atutor/5. Remote Code Execution.md",
     "01. Topics/02. Atutor/3. Data Exfilteration.md",
     "01. Topics/02. Atutor/4. Bypassing Authentication.md",
     "Pasted image 20220702181924.png",
     "Screenshots/t1-ss28.png",
-    "Screenshots/t1-ss25.png",
-    "01. Topics/02. Atutor/2. Digging Deeper.md",
-    "01. Topics/01. Tools & Methodologies/5. Debugging.md",
-    "01. Topics/01. Tools & Methodologies/4. Source Code Analysis.md"
+    "Screenshots/t1-ss25.png"
   ]
 }
