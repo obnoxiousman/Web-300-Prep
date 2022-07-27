@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01. Topics/03. ManageEngine/2. Triggering The Bug.md",
+            "file": "01. Topics/04. BassMaster/01. Bug Discovery.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Topics/03. ManageEngine/2. Triggering The Bug.md",
+                "file": "01. Topics/04. BassMaster/01. Bug Discovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "2d2bd40b77e6d6eb",
   "lastOpenFiles": [
-    "01. Topics/03. ManageEngine/1. Bug Discovery.md",
-    "Screenshots/t2-ss2.png",
-    "Screenshots/t2-ss1.png",
-    "01. Topics/01. Tools & Methodologies/5. Debugging.md",
-    "01. Topics/01. Tools & Methodologies/4. Source Code Analysis.md",
-    "01. Topics/01. Tools & Methodologies/3. Source Code Recovery.md",
-    "01. Topics/02. Atutor/6. Type Juggling Vulnerability.md",
-    "01. Topics/02. Atutor/1. Bug Discovery.md",
-    "01. Topics/02. Atutor/5. Remote Code Execution.md",
-    "01. Topics/02. Atutor/3. Data Exfilteration.md"
+    "t3-ss1.png",
+    "01. Topics/04. BassMaster/01. Bug Discovery.md",
+    "01. Topics/03. ManageEngine/6. More Shells.md",
+    "01. Topics/03. ManageEngine/5. User Defined Function Shell.md",
+    "Pasted image 20220724180935 1.png",
+    "01. Topics/03. ManageEngine/4. File System Shell.md",
+    "01. Topics/03. ManageEngine/3. Escaping Quotes.md",
+    "Screenshots/t2-ss14.png",
+    "Screenshots/t2-ss13.png",
+    "Screenshots/t2-ss12.png"
   ]
 }
