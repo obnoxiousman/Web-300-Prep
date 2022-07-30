@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01. Topics/04. BassMaster/01. Bug Discovery.md",
+            "file": "01. Topics/05.DotNetNuke/1. Serialization.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Topics/04. BassMaster/01. Bug Discovery.md",
+                "file": "01. Topics/05.DotNetNuke/1. Serialization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "2d2bd40b77e6d6eb",
   "lastOpenFiles": [
-    "t3-ss1.png",
-    "01. Topics/04. BassMaster/01. Bug Discovery.md",
+    "01. Topics/04. BassMaster/3. Getting The Shell.md",
+    "01. Topics/04. BassMaster/2. Triggering The Bug.md",
+    "01. Topics/04. BassMaster/1. Bug Discovery.md",
+    "Screenshots/t3-ss1.png",
     "01. Topics/03. ManageEngine/6. More Shells.md",
     "01. Topics/03. ManageEngine/5. User Defined Function Shell.md",
     "Pasted image 20220724180935 1.png",
     "01. Topics/03. ManageEngine/4. File System Shell.md",
     "01. Topics/03. ManageEngine/3. Escaping Quotes.md",
-    "Screenshots/t2-ss14.png",
-    "Screenshots/t2-ss13.png",
-    "Screenshots/t2-ss12.png"
+    "Screenshots/t2-ss14.png"
   ]
 }
