@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01. Topics/06. ERPNext/3. SQL to Authentication Bypass.md",
+            "file": "01. Topics/06. ERPNext/5. Exploiting SSTI.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Topics/06. ERPNext/3. SQL to Authentication Bypass.md",
+                "file": "01. Topics/06. ERPNext/5. Exploiting SSTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3f2a08510ad16782",
+  "active": "0d7ac07015070ae5",
   "lastOpenFiles": [
+    "03. Screenshots/t5-ss50.png",
+    "01. Topics/06. ERPNext/5. Exploiting SSTI.md",
+    "01. Topics/06. ERPNext/4. SSTI.md",
+    "01. Topics/06. ERPNext/3. SQL to Authentication Bypass.md",
     "01. Topics/06. ERPNext/1. Getting Started.md",
     "01. Topics/06. ERPNext/2. Authentication Bypass Analysis.md",
-    "01. Topics/06. ERPNext/3. SQL to Authentication Bypass.md",
     "03. Screenshots/t5-ss8.png",
     "01. Topics/05. DotNetNuke/4. Getting the Shell.md",
     "01. Topics/01. Tools & Methodologies/5. Debugging.md",
-    "01. Topics/01. Tools & Methodologies/4. Source Code Analysis.md",
-    "01. Topics/05. DotNetNuke/2. DotNetNuke Vulnerability.md",
-    "01. Topics/05. DotNetNuke/3. Triggering the vulnerability.md",
-    "03. Screenshots/t4-ss23.png"
+    "01. Topics/01. Tools & Methodologies/4. Source Code Analysis.md"
   ]
 }
