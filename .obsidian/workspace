@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01. Topics/06. ERPNext/5. Exploiting SSTI.md",
+            "file": "01. Topics/07. OpenCRX/2. Digging Deeper.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Topics/06. ERPNext/5. Exploiting SSTI.md",
+                "file": "01. Topics/07. OpenCRX/2. Digging Deeper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "0d7ac07015070ae5",
   "lastOpenFiles": [
-    "03. Screenshots/t5-ss50.png",
-    "01. Topics/06. ERPNext/5. Exploiting SSTI.md",
+    "01. Topics/07. OpenCRX/1. Getting Started.md",
+    "03. Screenshots/t6-ss4.png",
+    "03. Screenshots/t6-ss3.png",
     "01. Topics/06. ERPNext/4. SSTI.md",
-    "01. Topics/06. ERPNext/3. SQL to Authentication Bypass.md",
-    "01. Topics/06. ERPNext/1. Getting Started.md",
     "01. Topics/06. ERPNext/2. Authentication Bypass Analysis.md",
-    "03. Screenshots/t5-ss8.png",
-    "01. Topics/05. DotNetNuke/4. Getting the Shell.md",
-    "01. Topics/01. Tools & Methodologies/5. Debugging.md",
-    "01. Topics/01. Tools & Methodologies/4. Source Code Analysis.md"
+    "01. Topics/01. Tools & Methodologies/1. Traffic Inspection.md",
+    "01. Topics/06. ERPNext/5. Exploiting SSTI.md",
+    "03. Screenshots/t5-ss50.png",
+    "01. Topics/06. ERPNext/3. SQL to Authentication Bypass.md",
+    "01. Topics/06. ERPNext/1. Getting Started.md"
   ]
 }
