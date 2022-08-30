@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3f2a08510ad16782",
+        "id": "5b5c475c66111b7d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01. Topics/07. OpenCRX/2. Digging Deeper.md",
+            "file": "01. Topics/07. OpenCRX/5. Chaining Exploits.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Topics/07. OpenCRX/2. Digging Deeper.md",
+                "file": "01. Topics/07. OpenCRX/5. Chaining Exploits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0d7ac07015070ae5",
+  "active": "5b5c475c66111b7d",
   "lastOpenFiles": [
-    "01. Topics/07. OpenCRX/1. Getting Started.md",
-    "03. Screenshots/t6-ss4.png",
-    "03. Screenshots/t6-ss3.png",
-    "01. Topics/06. ERPNext/4. SSTI.md",
-    "01. Topics/06. ERPNext/2. Authentication Bypass Analysis.md",
-    "01. Topics/01. Tools & Methodologies/1. Traffic Inspection.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "01. Topics/07. OpenCRX/5. Chaining Exploits.md",
+    "01. Topics/07. OpenCRX/4. Vulnerability Analysis.md",
     "01. Topics/06. ERPNext/5. Exploiting SSTI.md",
-    "03. Screenshots/t5-ss50.png",
-    "01. Topics/06. ERPNext/3. SQL to Authentication Bypass.md",
-    "01. Topics/06. ERPNext/1. Getting Started.md"
+    "01. Topics/07. OpenCRX/2. Exploiting Password Reset.md",
+    "03. Screenshots/t6-ss15.png",
+    "01. Topics/07. OpenCRX/3. XML External Entities.md",
+    "01. Topics/07. OpenCRX/1. Getting Started.md",
+    "03. Screenshots/t6-ss4.png"
   ]
 }
