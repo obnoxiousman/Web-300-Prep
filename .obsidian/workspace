@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01. Topics/07. OpenCRX/5. Chaining Exploits.md",
+            "file": "01. Topics/08. openITCOCKPIT/3. DOM-Based XSS.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Topics/07. OpenCRX/5. Chaining Exploits.md",
+                "file": "01. Topics/08. openITCOCKPIT/3. DOM-Based XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5b5c475c66111b7d",
   "lastOpenFiles": [
+    "01. Topics/08. openITCOCKPIT/2. Enumeration.md",
+    "01. Topics/08. openITCOCKPIT/1. Getting Started.md",
+    "01. Topics/07. OpenCRX/5. Chaining Exploits.md",
     "Untitled 1.md",
     "Untitled.md",
-    "01. Topics/07. OpenCRX/5. Chaining Exploits.md",
     "01. Topics/07. OpenCRX/4. Vulnerability Analysis.md",
     "01. Topics/06. ERPNext/5. Exploiting SSTI.md",
     "01. Topics/07. OpenCRX/2. Exploiting Password Reset.md",
     "03. Screenshots/t6-ss15.png",
-    "01. Topics/07. OpenCRX/3. XML External Entities.md",
-    "01. Topics/07. OpenCRX/1. Getting Started.md",
-    "03. Screenshots/t6-ss4.png"
+    "01. Topics/07. OpenCRX/3. XML External Entities.md"
   ]
 }
