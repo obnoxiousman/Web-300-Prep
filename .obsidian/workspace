@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01. Topics/08. openITCOCKPIT/4. XSS Hunting & Exploitation.md",
+            "file": "01. Topics/08. openITCOCKPIT/5. XSS Exploitation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Topics/08. openITCOCKPIT/4. XSS Hunting & Exploitation.md",
+                "file": "01. Topics/08. openITCOCKPIT/5. XSS Exploitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5b5c475c66111b7d",
   "lastOpenFiles": [
+    "01. Topics/08. openITCOCKPIT/4. XSS Hunting.md",
     "01. Topics/08. openITCOCKPIT/3. DOM-Based XSS.md",
+    "01. Topics/08. openITCOCKPIT/5. XSS Exploitation.md",
     "01. Topics/04. BassMaster/3. Getting The Shell.md",
     "01. Topics/04. BassMaster/1. Bug Discovery.md",
     "01. Topics/04. BassMaster/2. Triggering The Bug.md",
     "01. Topics/03. ManageEngine/5. User Defined Function Shell.md",
-    "01. Topics/08. openITCOCKPIT/4. XSS Hunting & Exploitation.md",
     "01. Topics/08. openITCOCKPIT/2. Enumeration.md",
     "01. Topics/08. openITCOCKPIT/1. Getting Started.md",
-    "01. Topics/07. OpenCRX/5. Chaining Exploits.md",
-    "Untitled 1.md"
+    "01. Topics/07. OpenCRX/5. Chaining Exploits.md"
   ]
 }
