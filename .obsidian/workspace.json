@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d33983543bfe0861",
+        "id": "7c96dd96a4a83791",
         "type": "tabs",
         "children": [
           {
-            "id": "e51343035cf26724",
+            "id": "6aa52cbb9f1b127a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Topics/08. openITCOCKPIT/6. Hunting for RCE.md",
+                "file": "01. Topics/08. openITCOCKPIT/7. Exploiting RCE.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Topics/08. openITCOCKPIT/6. Hunting for RCE.md",
+                "file": "01. Topics/08. openITCOCKPIT/7. Exploiting RCE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e51343035cf26724",
+  "active": "0d7ac07015070ae5",
   "lastOpenFiles": [
-    "01. Topics/08. openITCOCKPIT/5. XSS Exploitation.md",
+    "03. Screenshots/t7-ss32.png",
+    "01. Topics/08. openITCOCKPIT/7. Exploiting RCE.md",
+    "Pasted image 20221107003953.png",
+    "Pasted image 20221107004801.png",
     "01. Topics/08. openITCOCKPIT/6. Hunting for RCE.md",
+    "01. Topics/08. openITCOCKPIT/5. XSS Exploitation.md",
     "03. Screenshots/t7-ss26.png",
     "02. Supplements/01. Cross Site Scripting(XSS)/3. Reflected Server XSS.md",
     "02. Supplements/01. Cross Site Scripting(XSS)/2. Types Of XSS.md",
-    "02. Supplements/01. Cross Site Scripting(XSS)/1. Offensive JavaScript.md",
-    "01. Topics/01. Tools & Methodologies/1. Traffic Inspection.md",
-    "01. Topics/08. openITCOCKPIT/4. XSS Hunting.md",
-    "01. Topics/08. openITCOCKPIT/3. DOM-Based XSS.md",
-    "01. Topics/04. BassMaster/3. Getting The Shell.md"
+    "02. Supplements/01. Cross Site Scripting(XSS)/1. Offensive JavaScript.md"
   ]
 }
