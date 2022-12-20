@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "463f512718e8cf39",
+            "id": "1bf84412678bfb17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Topics/10. SSRF/3. Server Side Request Foregery.md",
+                "file": "01. Topics/10. SSRF/5. Exploiting Headless Chrome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f36ca7c0055950c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Topics/10. SSRF/6. Remote Code Execution.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Topics/10. SSRF/3. Server Side Request Foregery.md",
+                "file": "01. Topics/10. SSRF/6. Remote Code Execution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +110,15 @@
   },
   "active": "0d7ac07015070ae5",
   "lastOpenFiles": [
-    "01. Topics/10. SSRF/4..md",
+    "03. Screenshots/t9-ss42.png",
+    "01. Topics/10. SSRF/6. Remote Code Execution.md",
+    "01. Topics/10. SSRF/4. Authentication Bypass.md",
+    "01. Topics/10. SSRF/5. Exploiting Headless Chrome.md",
     "01. Topics/10. SSRF/3. Server Side Request Foregery.md",
     "01. Topics/10. SSRF/2. APIGateway.md",
-    "02. Supplements/01. Cross Site Scripting(XSS)/3. Reflected Server XSS.md",
-    "02. Supplements/01. Cross Site Scripting(XSS)/2. Types Of XSS.md",
-    "01. Topics/10. SSRF/1. Introduction.md",
-    "01. Topics/09. Concord/1. Introduction.md",
-    "01. Topics/09. Concord/4. Second Bypass.md",
-    "01. Topics/09. Concord/3. First Bypass.md",
-    "01. Topics/09. Concord/2. Understanding CORS.md"
+    "03. Screenshots/t9-ss23.png",
+    "03. Screenshots/t9-ss24.png",
+    "01. Topics/10. SSRF/4..md",
+    "02. Supplements/01. Cross Site Scripting(XSS)/3. Reflected Server XSS.md"
   ]
 }
